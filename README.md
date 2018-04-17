@@ -1,5 +1,9 @@
 # ActionMode
 
-<img src="https://github.com/HeyGoing/ActionMode/blob/master/images/2JHS7G(ZD1%246A0XN~ZV%25P9L.png" width="50%"/>
+截图如下：
 
-<img src="https://github.com/HeyGoing/ActionMode/blob/master/images/RV)_%25%7D%5DY%25U4%244~1L%5DNH6_%7B7.png" width="50%"/>
+<div align=left><img width="300" height="600" src="https://github.com/522520/ActionMode/blob/master/images/yan.1.png"/></div>
+<br><br>
+<div align=left><img width="300" height="600" src="https://github.com/522520/ActionMode/blob/master/images/yan.2.png"/></div>
+<br><br>
+<div align=left><img width="300" height="600" src="https://github.com/522520/ActionMode/blob/master/images/yan.2.png"/></div>
